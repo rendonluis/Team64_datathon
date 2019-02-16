@@ -2,11 +2,9 @@
 
 
 ### Project Abstract
-
-Using VaderSentiment (VS) and Deep Learning (DL or DNN) to create a predictive model of Synchrony, 3M, Honeywell, and Bayer closing market values. 
+Using Vader Sentiment (VS) and Deep Learning (DL or DNN) to create a predictive model of Synchrony, 3M, Honeywell, and Bayer closing market values. 
 
 ### Contact
-
 ```markdown
 
 - Evan LeClercq [Link](mailto://eleclercq@tuta.io)
