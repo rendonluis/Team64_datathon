@@ -8,8 +8,8 @@ Using VaderSentiment (VS) and Deep Learning (DL or DNN) to create a predictive m
 ### Contact
 
 ```markdown
-- Evan LeClercq ([Link](mailto://eleclercq@tuta.io))
-- Hun Cho ([Link](mailto://huncho2@illinois.edu)), 
-- Morteza Marvi ([Link](mailto://mortezaatm@gmail.com)), 
-- Luis Rendon ([Link](mailto://rendonluis14@gmail.com))
+-Evan LeClercq ([Link](mailto://eleclercq@tuta.io))
+-Hun Cho ([Link](mailto://huncho2@illinois.edu)), 
+-Morteza Marvi ([Link](mailto://mortezaatm@gmail.com)), 
+-Luis Rendon ([Link](mailto://rendonluis14@gmail.com))
 ```
