@@ -1,4 +1,4 @@
-## 2019 Illini Datathon Project Team64 Repository
+## 2019 Illini Datathon Team64 Repository
 
 
 ### Project Abstract
@@ -9,5 +9,6 @@ Using VaderSentiment (VS) to create a predictive model of Synchrony, 3M, Honeywe
 
 
 ### Contact
-
-eleclercq@tuta.io
+```
+Evan LeClercq ([link](mailto://eleclercq@tuta.io))
+```
