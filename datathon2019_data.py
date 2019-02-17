@@ -4,6 +4,8 @@ Goal: To import data and apply our group's model in order to predict stock closi
 Author(s): Evan LeClercq
 Date: 16/02/2019 (DD/MM/YYYY)
 Copr: Copyright © 2019 Evan LeClercq. All Rights Reserved.
+
+Modified By: NAME. Copyright © 2019 NAME. All Rights Reserved.
 """
 
 ############################################################
