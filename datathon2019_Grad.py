@@ -78,6 +78,10 @@ end_time = start_time - time.timer()
 ############################################################
 
 print("Runtime: ", end_time, "[s]")
-pd.read_csv('BAYZF', r)
+
+file('BAYZF.csv', 'w')
+file('BAYZF.csv', 'w')
+file('BAYZF.csv', 'w')
+file('BAYZF.csv', 'w')
 
 ############################################################
